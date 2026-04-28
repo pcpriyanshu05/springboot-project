@@ -234,3 +234,24 @@ body {
   .table th, .table td { padding: 0.6rem 0.5rem; }
   .form-actions { flex-direction: column; }
 }
+
+
+/*.message {
+  padding: 0.9rem 1.2rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.message.success {
+  background: #f0fff4;
+  color: #276749;
+  border-left: 4px solid #48bb78;
+}
+
+.message.error {
+  background: #fff5f5;
+  color: #c53030;
+  border-left: 4px solid #fc8181;
+} */
